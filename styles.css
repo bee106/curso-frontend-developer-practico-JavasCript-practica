@@ -245,7 +245,9 @@ nav {
   }
 
   /* Product detail */
-
+#productDetail{
+  z-index: 2;
+}
   .product-detail-close {
     background: var(--white);
     width: 14px;
